@@ -1,4 +1,5 @@
-Handwritten Digit Recognition
+# Handwritten Digit Recognition
+
 My first project at GrowIntern's Machine Learning internship.
 
 The task:
